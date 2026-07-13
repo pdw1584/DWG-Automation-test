@@ -1,0 +1,264 @@
+﻿status,coordinate_basis,dataset,floor,space_category,label,drawing_x,drawing_y,confidence,evidence_row_count,source_drawing,source_path,entity_type,layer,handle,handles,floor_bbox_ids
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,(24인승),156404.5542199481,-255349.1812798096,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11735,11735,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,(24인승),170788.1743666474,-237509.6240621898,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1184A,1184A,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,(24인승),173886.7073541824,-237509.6240621898,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1184D,1184D,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,(옥외지하 유류탱크),197251.1748113353,-217011.0990293401,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1191C,1191C,full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,(주차구획 상부),41788.8692180235,-336682.4123190114,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,117C7,117C7,full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,T4 AL.복합판넬(탈부착용),170253.7310058493,-204462.1639883088,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1F02F,1F02F,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,150391.8247803692,-243368.6644786763,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11920,11920,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,148150.9619654175,-224668.6625512913,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1192F,1192F,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,137683.2625495959,-219808.3315262962,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1192B,1192B,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,148481.9009866249,-219808.3315262962,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11929,11929,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,159738.4193363991,-219808.3315262962,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11927,11927,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,179147.1847327743,-217289.6205046841,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11925,11925,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,방수턱 설치,125727.0990734715,-213989.6205046841,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1192D,1192D,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,비상용,174268.5255359989,-235659.0483317077,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1184B,1184B,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,승객용,156786.3724017646,-253360.9652275717,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11733,11733,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,승객용,171169.9925484639,-235659.0483317077,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11848,11848,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,144374.521481989,-272722.7483716642,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,32A09,32A09,detail1_left | detail2_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,111914.1431378294,-271856.1501316479,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,32A05,32A05,detail1_left | detail2_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,147819.4494414125,-250871.9399681768,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,30081,30081,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,119893.3277492989,-242593.9092985677,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1849E,1849E,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,137363.6396345031,-242492.2956319321,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2F75E,2F75E,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,147482.3173459303,-229978.3278200017,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,18499,18499,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,116777.6962792259,-213190.0547278399,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,18494,18494,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,110416.2213646304,-208933.1328276662,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2F758,2F758,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,집수정,125333.6081133504,-208933.1328276662,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,3007B,3007B,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,차수판,152521.9784117397,-206575.5610605872,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,31C3F,31C3F,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ARCH_SPACE,태양광 패널 캐노피,40468.3807512652,-335482.4123190114,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,117C4,117C4,full
+confirmed,XR-PLAN,architecture,1F,ELEVATOR,ELEV.#1,170760.0875281114,-236565.7105001975,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11849,11849,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ELEVATOR,ELEV.#2,156376.4673814122,-254401.0896324491,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11734,11734,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,ELEVATOR,ELEV.#2,173858.6205156464,-236565.7105001975,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1184C,1184C,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,EPS,151322.7419728059,-311037.7083124614,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11789,11789,detail2_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,IT.EPS,172700.5865293164,-231769.9832881507,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11780,11780,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,PS,151793.0510222968,-306145.6171980223,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11788,11788,detail2_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,PS,156241.8612177391,-291474.7036145681,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,117DC,117DC,detail2_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,PS,157673.5936511811,-279927.1444463075,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,117DB,117DB,detail2_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,PS,173373.4801826384,-246574.6753513555,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,11781,11781,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,PS,173219.5144185852,-209581.2963751652,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1177F,1177F,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,SHAFT,TPS,149357.0460170861,-311037.7083124614,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1178A,1178A,detail2_left | full
+confirmed,XR-PLAN,architecture,1F,STAIR,ST,176269.3473720383,-240580.8464008637,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1184F,1184F,detail1_left | full
+confirmed,XR-PLAN,architecture,1F,STAIR,ST,176280.0456729811,-239005.8372314952,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1184E,1184E,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,(24인승),156404.5542199481,-77143.8029900111,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124EC,124EC,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,(24인승),170788.1743666437,-59425.0379655358,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12684,12684,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,(24인승),173886.7073541787,-59425.0379655358,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12687,12687,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,방수턱 설치,138179.9050026741,-96094.8726707258,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,126D1,126D1,detail2_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,비상용,174268.5255359952,-57492.0332161726,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12685,12685,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,승객용,156786.3724017646,-75239.1348609302,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124EA,124EA,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,승객용,171169.9925484602,-57492.0332161726,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12682,12682,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,연도,172268.1090324242,-46355.5736793945,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12633,12633,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ARCH_SPACE,장비반입 셔터(발전기용),165662.6520103794,-27303.3916986233,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,126CB,126CB,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ELEVATOR,ELEV.#1,170760.0875281077,-58471.9591696018,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12683,12683,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ELEVATOR,ELEV.#2,156376.4673814122,-76201.0896324489,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124EB,124EB,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,ELEVATOR,ELEV.#2,173858.6205156427,-58471.9591696018,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12686,12686,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,EPS,144357.3701230604,-76219.9839872736,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124F4,124F4,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,IT.EPS,172585.9250876587,-53449.6823456224,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12663,12663,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,IT.TPS,165269.7183415871,-56767.9484618017,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1250E,1250E,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,IT.TPS,165269.7213081736,-41569.9841549203,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12664,12664,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS,152957.6018402632,-128169.1302818048,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124F3,124F3,detail2_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS,157378.7704931852,-103258.1775673891,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,126C1,126C1,detail2_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS,154261.1844976489,-74026.8762627553,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124F2,124F2,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS,173339.172538193,-68820.4110904017,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124EE,124EE,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS,173219.5144185331,-32219.983739974,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124ED,124ED,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS(F),165456.9633940105,-60418.9633678088,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12662,12662,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,PS(F),165456.9633940105,-38143.9675731167,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12665,12665,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,SHAFT,171733.3600500617,-47444.8912348128,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12634,12634,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,TPS,148076.5014163349,-97294.9824550692,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,124F5,124F5,detail2_left | full
+confirmed,XR-PLAN,architecture,2F,SHAFT,TPS,170919.8655502368,-42571.9140212379,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2A27A,2A27A,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,STAIR,ST,176269.3473720309,-62444.9864422616,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12689,12689,detail1_left | full
+confirmed,XR-PLAN,architecture,2F,STAIR,ST,176269.3473720309,-60869.9772728933,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12688,12688,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,(24인승),170788.1743666437,118774.9620344644,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1798F,1798F,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,(24인승),173886.7073541787,118774.9620344644,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17992,17992,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,(24인승),92161.069465192,140954.5900543894,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1796E,1796E,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,DA(급기소음기),125785.3404497448,113606.2542472913,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1D5BE,1D5BE,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,비상용,174268.5255359952,120707.9667838277,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17990,17990,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,비상용,92542.8876470085,142766.1271988305,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1796C,1796C,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,승객용,171169.9925484602,120707.9667838277,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1798D,1798D,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,연도,96107.2460100073,125960.515313658,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1797B,1797B,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,연도,173057.5552437026,131844.4263206057,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1797D,1797D,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ARCH_SPACE,태양광 패널(전기공사분),180798.5089929644,64541.5229349819,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12ACA,12ACA,detail2_left | full
+confirmed,XR-PLAN,architecture,2MF,ELEVATOR,ELEV.#1,170760.0875281077,119728.0408303985,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1798E,1798E,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ELEVATOR,ELEV.#1,92132.9826266561,141857.4685558083,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1796D,1796D,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ELEVATOR,ELEV.#2,173858.6205156427,119728.0408303985,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17991,17991,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ELEVATOR,화물용 ELEV.#1,92811.7430578303,119358.1596296153,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1798B,1798B,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,ELEVATOR,화물용 ELEV.#2,92811.7430578303,114576.1522584719,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17989,17989,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,B.EPS,92417.7501155529,125530.0172237258,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1797A,1797A,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,B.TPS,101736.8821254503,132932.0528231585,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17988,17988,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,IT.EPS,172585.9250876587,124750.3176543778,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17983,17983,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,IT.EPS,94200.5859107021,132380.0172237256,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17972,17972,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,IT.TPS,101669.717946345,121432.0515381953,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17979,17979,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,IT.TPS,165269.7183415871,121432.0515381985,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17978,17978,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,IT.TPS,165269.7213081736,136630.0158450799,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17984,17984,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,IT.TPS,101669.7154416349,136657.0500658115,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17987,17987,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS,95099.8562988769,109379.5889095986,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17973,17973,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS,173339.172538193,109379.5889095986,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17970,17970,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS,95183.8970508259,145980.0162600263,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17971,17971,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS,173219.5144185331,145980.0162600263,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1796F,1796F,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS(F),101856.9633795638,117781.0366207159,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17980,17980,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS(F),165456.9633940105,117781.0366321914,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17982,17982,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS(F),101856.9626128357,140056.0324268835,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17986,17986,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,PS(F),165456.9633940105,140056.0324268835,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17985,17985,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,SHAFT,95572.4970276449,125100.515313658,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1797C,1797C,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,SHAFT,172522.8062613402,130755.1087651875,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1797E,1797E,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,SHAFT,TPS,170919.8655502368,135628.0859787623,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2A27C,2A27C,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,STAIR,ST,176269.3473720309,115755.0135577387,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17994,17994,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,STAIR,ST,176269.3473720309,117330.022727107,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17993,17993,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,STAIR,ST,95794.3440215345,143055.0167111126,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17976,17976,detail1_left | full
+confirmed,XR-PLAN,architecture,2MF,STAIR,ST,97419.3440215345,143055.0167111126,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,17977,17977,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ARCH_SPACE,(24인승),170788.1743666511,297105.6672125425,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B6A,12B6A,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ARCH_SPACE,(24인승),173886.7073541861,297105.6672125425,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B6D,12B6D,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ARCH_SPACE,비상용,174268.5255360026,299029.286223125,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B6B,12B6B,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ARCH_SPACE,승객용,171169.9925484676,299029.286223125,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B68,12B68,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ARCH_SPACE,연도,172317.6736344937,310044.4263205774,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B47,12B47,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ELEVATOR,ELEV.#1,170760.0875281152,298124.6251416377,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B69,12B69,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,ELEVATOR,ELEV.#2,173858.6205156502,298124.6251416377,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B6C,12B6C,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,IT.EPS,172585.9250876662,302950.3176543497,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B5E,12B5E,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,IT.TPS,165269.7183415946,299632.0515381704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B1B,12B1B,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,IT.TPS,165269.7213081811,314830.0158450518,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B5F,12B5F,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,PS,173339.1725382004,287579.5889095704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B15,12B15,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,PS,173219.5144185405,324180.0162599979,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B14,12B14,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,PS(F),165456.9758314025,295731.0366563945,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B5D,12B5D,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,PS(F),165456.9633940179,318256.0324268554,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B60,12B60,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,SHAFT,171782.9246521313,309184.4263205774,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B48,12B48,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,SHAFT,TPS,170919.8655502368,313828.0859787626,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2A27D,2A27D,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,STAIR,ST,176269.3473720383,293955.0135577105,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B6F,12B6F,detail1_left | full
+confirmed,XR-PLAN,architecture,3F,STAIR,ST,176269.3473720383,295530.0227270786,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12B6E,12B6E,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,(24인승),170788.1743666511,475248.6221971161,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13089,13089,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,(24인승),173886.7073541861,475248.6221971161,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1308C,1308C,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,(24인승),92161.0694651995,497303.0018042683,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13032,13032,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,T4 AL.복합판넬(탈부착용),89456.3853173461,508337.8385814422,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1F03B,1F03B,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,방수턱 설치,108543.4378495012,469993.8535177813,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12FC0,12FC0,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,방수턱 설치,161314.6951311436,469993.8535177813,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,12FF0,12FF0,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,비상용,174268.5255360026,477078.3501233294,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1308A,1308A,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,비상용,92542.887647016,499195.9306153192,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13030,13030,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,승객용,171169.9925484676,477078.3501233294,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13087,13087,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,연도,96107.2460100148,482360.5153136298,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13064,13064,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,연도,171469.1947634351,488244.4263205773,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13066,13066,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ARCH_SPACE,추후 증축 영역 (예정),61076.1019425001,481750.731086402,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1301C,1301C,full
+confirmed,XR-PLAN,architecture,4F,ELEVATOR,ELEV.#1,170760.0875281152,476128.0408303703,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13088,13088,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ELEVATOR,ELEV.#1,92132.9826266635,498257.4685557804,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13031,13031,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ELEVATOR,ELEV.#2,173858.6205156502,476128.0408303703,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1308B,1308B,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ELEVATOR,화물용 ELEV.#1,92811.7430578377,475758.1596295874,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13085,13085,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,ELEVATOR,화물용 ELEV.#2,92811.7430578377,470976.1522584435,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13083,13083,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,B.EPS,92417.7501155604,481930.0172236979,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13063,13063,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,B.TPS,101736.8821254578,489332.0528231301,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13082,13082,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,IT.EPS,172585.9250876662,481150.3176543497,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1307D,1307D,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,IT.EPS,94200.5859107096,488780.0172236974,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13036,13036,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,IT.TPS,101669.7179463524,477832.0515381671,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13051,13051,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,IT.TPS,165269.7183415946,477832.0515381704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1303A,1303A,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,IT.TPS,165269.7213081811,493030.0158450518,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1307E,1307E,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,IT.TPS,101669.7154416386,493057.0500657834,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13081,13081,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS,95099.8562988844,465779.5889095704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13037,13037,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS,173339.1725382004,465779.5889095704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13034,13034,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS,95183.8970508333,502380.0162599979,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13035,13035,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS,173219.5144185405,502380.0162599979,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13033,13033,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS(F),101856.9633795712,474181.036620688,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13068,13068,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS(F),165456.9633940179,474181.0366321633,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1307C,1307C,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS(F),101856.9626128431,496456.0324268554,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13080,13080,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,PS(F),165456.9633940179,496456.0324268554,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1307F,1307F,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,SHAFT,95572.4970276523,481500.5153136298,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13065,13065,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,SHAFT,170934.4457810726,487384.4263205773,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13067,13067,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,SHAFT,TPS,170919.8655502368,492028.0859787625,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2A27E,2A27E,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,STAIR,ST,176269.3473720383,472155.0135577105,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1308E,1308E,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,STAIR,ST,176269.3473720383,473730.022727079,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1308D,1308D,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,STAIR,ST,95794.344021542,499455.0167110845,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13038,13038,detail1_left | full
+confirmed,XR-PLAN,architecture,4F,STAIR,ST,97419.3440215383,499455.0167110845,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13039,13039,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,(24인승),170788.1743666511,653382.5122886302,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AAE,13AAE,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,(24인승),173886.7073541861,653382.5122886302,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AB1,13AB1,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,(24인승),92161.0694651995,675479.6733113679,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A57,13A57,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,비상용,174268.5255360026,655271.4341541959,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AAF,13AAF,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,비상용,92542.887647016,677440.9454103524,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A55,13A55,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,승객용,171169.9925484676,655271.4341541959,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AAC,13AAC,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,연도,96107.2460100148,660560.5153136298,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A89,13A89,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,연도,171469.1947634351,666444.4263205777,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A8B,13A8B,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ARCH_SPACE,추후 증축 영역 (예정),61076.1019425001,659950.7310864024,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,139E6,139E6,full
+confirmed,XR-PLAN,architecture,5F,ELEVATOR,ELEV.#1,170760.0875281152,654328.0408303703,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AAD,13AAD,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ELEVATOR,ELEV.#1,92132.9826266635,676457.4685557804,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A56,13A56,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ELEVATOR,ELEV.#2,173858.6205156502,654328.0408303703,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AB0,13AB0,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ELEVATOR,화물용 ELEV.#1,92811.7430578377,653958.1596295873,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AAA,13AAA,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,ELEVATOR,화물용 ELEV.#2,92811.7430578377,649176.1522584439,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA8,13AA8,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,B.EPS,92417.7501155604,660130.0172236979,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A88,13A88,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,B.TPS,101736.8821254578,667532.0528231305,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA7,13AA7,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,IT.EPS,172585.9250876662,659350.3176543501,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA2,13AA2,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,IT.EPS,94200.5859107096,666980.0172236974,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A5B,13A5B,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,IT.TPS,101669.7179463524,656032.0515381671,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A76,13A76,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,IT.TPS,165269.7183415946,656032.0515381703,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A5F,13A5F,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,IT.TPS,165269.7213081811,671230.0158450517,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA3,13AA3,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,IT.TPS,101669.7154416386,671257.0500657833,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA6,13AA6,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS,95099.8562988844,643979.5889095704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A5C,13A5C,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS,173339.1725382004,643979.5889095704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A59,13A59,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS,95183.8970508333,680580.0162599983,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A5A,13A5A,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS,173219.5144185405,680580.0162599983,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A58,13A58,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS(F),101856.9758248683,652131.0366563911,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A8D,13A8D,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS(F),165456.9633940179,652381.0366321632,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA1,13AA1,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS(F),101856.9626128431,674656.0324268553,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA5,13AA5,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,PS(F),165456.9633940179,674656.0324268553,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AA4,13AA4,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,SHAFT,95572.4970276523,659700.5153136298,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A8A,13A8A,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,SHAFT,170934.4457810726,665584.4263205777,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A8C,13A8C,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,SHAFT,TPS,170919.8655502368,670228.0859787629,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,2A27F,2A27F,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,STAIR,ST,176269.3473720383,650355.0135577105,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AB3,13AB3,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,STAIR,ST,176269.3473720383,651930.022727079,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13AB2,13AB2,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,STAIR,ST,95794.344021542,677655.0167110844,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A5D,13A5D,detail1_left | full
+confirmed,XR-PLAN,architecture,5F,STAIR,ST,97419.3440215383,677655.0167110844,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,13A5E,13A5E,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,(24인승),173916.062223522,831656.0026716406,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1410B,1410B,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,(24인승),92132.023895951,853729.2111689805,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14110,14110,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,10대(기계공사),131882.7826012354,850424.7844607432,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1409F,1409F,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,2대(기계공사),155655.758219963,832463.7244475998,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,140A0,140A0,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,방수턱 설치,148121.5435371045,825331.3368062575,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14040,14040,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,방수턱 설치,148121.5435371045,831463.1354624389,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,140ED,140ED,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,버퍼탱크(기계공사),155186.3449854758,821927.7656324732,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14074,14074,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,버퍼탱크(기계공사),131087.1309241261,856262.016926388,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1403F,1403F,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,비상용,174268.5255360026,833501.4299416302,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14109,14109,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,비상용,92513.8363499884,855598.759875417,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1410E,1410E,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,연도,96107.2460100148,838760.5153136298,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14116,14116,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,연도,172054.0067661759,844600.5892109263,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14106,14106,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,오픈트랜치(W:300),101826.8609176297,846672.7394348939,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14048,14048,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,캣워크,149297.8810590077,842135.9702250881,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29CA2,29CA2,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,캣워크,149297.8810590077,855955.3707621007,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29C9D,29C9D,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,커버트랜치(W:300),101826.8609176297,850995.0175449701,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1404B,1404B,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,프리쿨링 냉동기,155238.5261982549,833863.2156280612,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14103,14103,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ARCH_SPACE,프리쿨링 냉동기,131708.5627911966,851824.2756412046,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14102,14102,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ELEVATOR,ELEV.#1,92132.9826266635,854657.4685557804,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1410F,1410F,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ELEVATOR,ELEV.#2,173858.6205156502,832528.0408303703,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1410A,1410A,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,ELEVATOR,화물용 ELEV.#1,92811.7430578377,832158.1596295873,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14118,14118,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,IT.EPS,172585.9250876662,837550.3176543501,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14108,14108,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,IT.EPS,94200.5859107096,845180.0172236974,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14112,14112,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,PS,95099.8562988844,822179.5889095704,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14113,14113,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,PS,173339.172538193,822179.5889095988,0.80,2,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1403E,1403E | 14105,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,PS,121995.8233514708,834855.6549297629,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1409C,1409C,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,PS,95183.8970508333,858780.0162599983,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14111,14111,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,PS,173219.5144185405,858780.0162599983,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14104,14104,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,SHAFT,95572.4970276523,837900.5153136298,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14117,14117,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,SHAFT,SHAFT,171519.2577838134,843740.5892109263,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14107,14107,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,STAIR,ST,176269.3473720383,828555.0135577105,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1410D,1410D,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,STAIR,ST,176269.3473720383,830130.022727079,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1410C,1410C,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,STAIR,ST,95794.344021542,855855.0167110844,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14114,14114,detail1_left | full
+confirmed,XR-PLAN,architecture,6F,STAIR,ST,97419.3440215383,855855.0167110844,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14115,14115,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,ARCH_SPACE,(제연 배기팬),171542.7255237233,1004606.913518679,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14450,14450,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,ARCH_SPACE,(제연 배기팬),92361.9656815734,1035552.193791901,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,14480,14480,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,ARCH_SPACE,연도,96107.2460100148,1016960.5153136289,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1447E,1447E,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,ARCH_SPACE,연도,171961.1480068248,1022725.747539509,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1447C,1447C,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,ARCH_SPACE,태양광 패널(전기공사),141083.8812606428,992440.2701848528,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1440F,1440F,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,SHAFT,SHAFT,95572.4970276523,1016100.5153136289,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1447F,1447F,detail1_left | full
+confirmed,XR-PLAN,architecture,PH,SHAFT,SHAFT,171426.3990244623,1021865.747539509,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1447D,1447D,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,OIL,139065.9884314854,-388748.9973386591,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29112,29112,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,OIL,149700.5874152761,-388748.9973386591,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29113,29113,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,OIL,160202.7844609749,-388748.9973386591,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29114,29114,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,"영구배수집수정(1,685x1,470(h))",158250.7987605166,-487217.8296915346,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,10885,10885,detail2_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,"영구배수집수정(1,685x1,470(h))",100181.1466534492,-428601.064760272,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,27A72,27A72,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,"영구배수집수정(1,685x1,470(h))",100181.1466534492,-390094.3151835592,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,27A6E,27A6E,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,"집수정(1,200X1,200X1,500)",167871.631243771,-455691.768180303,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,10889,10889,detail2_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,"집수정(1,200X1,200X1,500)",165371.5580855627,-428668.9982374042,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1088A,1088A,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,"집수정(1,200X1,200X1,500)",174967.2641411331,-393254.7195211702,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,27A6B,27A6B,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,집수정(600X600X600),181896.0353272278,-417188.0139537544,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1087B,1087B,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,ARCH_SPACE,집수정(600X600X600),79560.2885610517,-395594.4276425119,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,10877,10877,full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,(기계 PIT),158995.7849486973,-424157.2613380514,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,107B4,107B4,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,(통신 PIT),158953.0516189058,-422245.1837201444,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,107B3,107B3,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,GIS PIT,149739.5383025129,-400751.4250814793,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29110,29110,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT,149739.5383025129,-398427.1628124281,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29111,29111,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT,135709.4308039937,-389786.9424490453,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29115,29115,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT,144012.1965744626,-389786.9424490453,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29116,29116,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT,154730.4247799609,-389786.9424490453,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,29117,29117,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT-1,139065.9884314854,-389786.9424490453,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1E11B,1E11B,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT-2,149739.5383025129,-389786.9424490453,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1E11C,1E11C,detail1_left | full
+confirmed,XR-PLAN,architecture,PIT,PIT_SPACE,PIT-3,160232.6480990816,-389786.9424490453,0.80,1,A-101~109 전체평면도.dxf,v2\data\출력\A-101~109 전체평면도.dxf,TEXT,A-TEXT-NAME,1E11D,1E11D,detail1_left | full

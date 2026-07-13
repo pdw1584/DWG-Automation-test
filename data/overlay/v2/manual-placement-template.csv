@@ -1,0 +1,2 @@
+placement_id,base_drawing,detail_drawing,detail_copied_path,base_coordinate_system,insert_x,insert_y,xscale,yscale,rotation_degrees,clip_boundary,confirmed_by,confirmed_at,review_status,review_note
+example-001,XR-PLAN.dwg,E-Y01_EPS실 확대평면도.dwg,data/overlay/v2/xr-plan-raw/...,XR-PLAN,,,,,,,pending,

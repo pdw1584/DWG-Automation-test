@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+secrets/
+data/raw/
+data/parsed/
+data/metadata/
+
+# Generated or intermediate data that should stay out of Git Pages and the repo
+data/converted/
+data/legacy/
+data/출력/
+data/overlay/
+v2/legacy/
+v2/refresh-equipment/
+v2/data/converted/
+v2/data/출력/
+v2/reference/
+v3/legacy/
+v3/refresh-equipment/
+v3/data/converted/
+v3/data/출력/
+v3/reference/
+
+# Packaging metadata and local build artifacts
+src/drawing_facility_mapper.egg-info/
+*.egg-info/
+*.bak
+*.tmp
+*.log
+*.cache

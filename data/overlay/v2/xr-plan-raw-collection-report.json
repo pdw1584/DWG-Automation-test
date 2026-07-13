@@ -1,0 +1,13 @@
+{
+  "overlay_drawings": "data\\overlay\\drawing-overlay-drawings.csv",
+  "raw_root": "data\\raw",
+  "output_raw_dir": "data\\overlay\\v2\\xr-plan-raw",
+  "selected_count": 56,
+  "copied_count": 56,
+  "planned_count": 56,
+  "missing_count": 0,
+  "dry_run": false,
+  "priority_filter": "",
+  "manifest_csv": "data\\overlay\\v2\\xr-plan-raw-manifest.csv",
+  "manifest_json": "data\\overlay\\v2\\xr-plan-raw-manifest.json"
+}
