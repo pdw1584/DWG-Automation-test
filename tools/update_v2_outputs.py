@@ -246,9 +246,13 @@ def _row_to_payload(row: dict) -> dict:
 
 
 def _floor_order(existing: list[str], locations: list[dict]) -> list[str]:
-    order = [str(floor) for floor in existing if floor]
-    for floor in [str(item.get("floor") or "") for item in locations]:
-        if floor and floor not in order:
+    preferred_order = ["PIT", "1F", "2F", "2MF", "3F", "4F", "5F", "6F", "PH", "PHR"]
+    seen = {str(floor) for floor in existing if floor}
+    seen.update(str(item.get("floor") or "") for item in locations if str(item.get("floor") or ""))
+
+    order = [floor for floor in preferred_order if floor in seen or floor == "PHR"]
+    for floor in seen:
+        if floor not in order:
             order.append(floor)
     return order
 
